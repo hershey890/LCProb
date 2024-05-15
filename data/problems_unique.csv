@@ -1,214 +1,214 @@
-Number,Name,Difficulty,Link,Date Completed,List
-1,Two Sum,Easy,https://leetcode.com/problems/two-sum/,,Grind75
-3,Longest Substring Without Repeating Characters,Medium,https://leetcode.com/problems/longest-substring-without-repeating-characters/,,Grind75
-5,Longest Palindromic Substring,Medium,https://leetcode.com/problems/longest-palindromic-substring/,,Grind75
-133,Clone Graph,Medium,https://leetcode.com/problems/clone-graph/,,Grind75
-383,Ransom Note,Easy,https://leetcode.com/problems/ransom-note/,,Grind75
-8,String to Integer (atoi),Medium,https://leetcode.com/problems/string-to-integer-atoi/,,Grind75
-11,Container With Most Water,Medium,https://leetcode.com/problems/container-with-most-water/,,Grind75
-139,Word Break,Medium,https://leetcode.com/problems/word-break/,,Grind75
-141,Linked List Cycle,Easy,https://leetcode.com/problems/linked-list-cycle/,,Grind75
-876,Middle of the Linked List,Easy,https://leetcode.com/problems/middle-of-the-linked-list/,,Grind75
-15,3Sum,Medium,https://leetcode.com/problems/3sum/,,Grind75
-994,Rotting Oranges,Medium,https://leetcode.com/problems/rotting-oranges/,,Grind75
-17,Letter Combinations of a Phone Number,Medium,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,,Grind75
-146,LRU Cache,Medium,https://leetcode.com/problems/lru-cache/,,Grind75
-20,Valid Parentheses,Easy,https://leetcode.com/problems/valid-parentheses/,,Grind75
-21,Merge Two Sorted Lists,Easy,https://leetcode.com/problems/merge-two-sorted-lists/,,Grind75
-150,Evaluate Reverse Polish Notation,Medium,https://leetcode.com/problems/evaluate-reverse-polish-notation/,,Grind75
-23,Merge k Sorted Lists,Hard,https://leetcode.com/problems/merge-k-sorted-lists/,,Grind75
-278,First Bad Version,Easy,https://leetcode.com/problems/first-bad-version/,,Grind75
-409,Longest Palindrome,Easy,https://leetcode.com/problems/longest-palindrome/,,Grind75
-704,Binary Search,Easy,https://leetcode.com/problems/binary-search/,,Grind75
-155,Min Stack,Medium,https://leetcode.com/problems/min-stack/,,Grind75
-981,Time Based Key-Value Store,Medium,https://leetcode.com/problems/time-based-key-value-store/,,Grind75
-542,01 Matrix,Medium,https://leetcode.com/problems/01-matrix/,,Grind75
-543,Diameter of Binary Tree,Easy,https://leetcode.com/problems/diameter-of-binary-tree/,,Grind75
-416,Partition Equal Subset Sum,Medium,https://leetcode.com/problems/partition-equal-subset-sum/,,Grind75
-33,Search in Rotated Sorted Array,Medium,https://leetcode.com/problems/search-in-rotated-sorted-array/,,Grind75
-39,Combination Sum,Medium,https://leetcode.com/problems/combination-sum/,,Grind75
-295,Find Median from Data Stream,Hard,https://leetcode.com/problems/find-median-from-data-stream/,,Grind75
-169,Majority Element,Easy,https://leetcode.com/problems/majority-element/,,Grind75
-42,Trapping Rain Water,Hard,https://leetcode.com/problems/trapping-rain-water/,,Grind75
-297,Serialize and Deserialize Binary Tree,Hard,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,,Grind75
-46,Permutations,Medium,https://leetcode.com/problems/permutations/,,Grind75
-53,Maximum Subarray,Medium,https://leetcode.com/problems/maximum-subarray/,,Grind75
-54,Spiral Matrix,Medium,https://leetcode.com/problems/spiral-matrix/,,Grind75
-310,Minimum Height Trees,Medium,https://leetcode.com/problems/minimum-height-trees/,,Grind75
-56,Merge Intervals,Medium,https://leetcode.com/problems/merge-intervals/,,Grind75
-57,Insert Interval,Medium,https://leetcode.com/problems/insert-interval/,,Grind75
-438,Find All Anagrams in a String,Medium,https://leetcode.com/problems/find-all-anagrams-in-a-string/,,Grind75
-62,Unique Paths,Medium,https://leetcode.com/problems/unique-paths/,,Grind75
-322,Coin Change,Medium,https://leetcode.com/problems/coin-change/,,Grind75
-67,Add Binary,Easy,https://leetcode.com/problems/add-binary/,,Grind75
-70,Climbing Stairs,Easy,https://leetcode.com/problems/climbing-stairs/,,Grind75
-199,Binary Tree Right Side View,Medium,https://leetcode.com/problems/binary-tree-right-side-view/,,Grind75
-200,Number of Islands,Medium,https://leetcode.com/problems/number-of-islands/,,Grind75
-1235,Maximum Profit in Job Scheduling,Hard,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,,Grind75
-75,Sort Colors,Medium,https://leetcode.com/problems/sort-colors/,,Grind75
-76,Minimum Window Substring,Hard,https://leetcode.com/problems/minimum-window-substring/,,Grind75
-78,Subsets,Medium,https://leetcode.com/problems/subsets/,,Grind75
-79,Word Search,Medium,https://leetcode.com/problems/word-search/,,Grind75
-206,Reverse Linked List,Easy,https://leetcode.com/problems/reverse-linked-list/,,Grind75
-207,Course Schedule,Medium,https://leetcode.com/problems/course-schedule/,,Grind75
-208,Implement Trie (Prefix Tree),Medium,https://leetcode.com/problems/implement-trie-prefix-tree/,,Grind75
-721,Accounts Merge,Medium,https://leetcode.com/problems/accounts-merge/,,Grind75
-84,Largest Rectangle in Histogram,Hard,https://leetcode.com/problems/largest-rectangle-in-histogram/,,Grind75
-217,Contains Duplicate,Easy,https://leetcode.com/problems/contains-duplicate/,,Grind75
-733,Flood Fill,Easy,https://leetcode.com/problems/flood-fill/,,Grind75
-224,Basic Calculator,Hard,https://leetcode.com/problems/basic-calculator/,,Grind75
-98,Validate Binary Search Tree,Medium,https://leetcode.com/problems/validate-binary-search-tree/,,Grind75
-226,Invert Binary Tree,Easy,https://leetcode.com/problems/invert-binary-tree/,,Grind75
-102,Binary Tree Level Order Traversal,Medium,https://leetcode.com/problems/binary-tree-level-order-traversal/,,Grind75
-230,Kth Smallest Element in a BST,Medium,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,,Grind75
-104,Maximum Depth of Binary Tree,Easy,https://leetcode.com/problems/maximum-depth-of-binary-tree/,,Grind75
-105,Construct Binary Tree from Preorder and Inorder Traversal,Medium,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,,Grind75
-232,Implement Queue using Stacks,Easy,https://leetcode.com/problems/implement-queue-using-stacks/,,Grind75
-235,Lowest Common Ancestor of a Binary Search Tree,Medium,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,,Grind75
-236,Lowest Common Ancestor of a Binary Tree,Medium,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,,Grind75
-621,Task Scheduler,Medium,https://leetcode.com/problems/task-scheduler/,,Grind75
-110,Balanced Binary Tree,Easy,https://leetcode.com/problems/balanced-binary-tree/,,Grind75
-238,Product of Array Except Self,Medium,https://leetcode.com/problems/product-of-array-except-self/,,Grind75
-242,Valid Anagram,Easy,https://leetcode.com/problems/valid-anagram/,,Grind75
-973,K Closest Points to Origin,Medium,https://leetcode.com/problems/k-closest-points-to-origin/,,Grind75
-121,Best Time to Buy and Sell Stock,Easy,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,,Grind75
-125,Valid Palindrome,Easy,https://leetcode.com/problems/valid-palindrome/,,Grind75
-127,Word Ladder,Hard,https://leetcode.com/problems/word-ladder/,,Grind75
-2,Add Two Numbers,Medium,https://leetcode.com/problems/add-two-numbers/,,Grind169
-4,Median of Two Sorted Arrays,Hard,https://leetcode.com/problems/median-of-two-sorted-arrays/,,Grind169
-7,Reverse Integer,Medium,https://leetcode.com/problems/reverse-integer/,,Grind169
-9,Palindrome Number,Easy,https://leetcode.com/problems/palindrome-number/,,Grind169
-13,Roman to Integer,Easy,https://leetcode.com/problems/roman-to-integer/,,Grind169
-14,Longest Common Prefix,Easy,https://leetcode.com/problems/longest-common-prefix/,,Grind169
-16,3Sum Closest,Medium,https://leetcode.com/problems/3sum-closest/,,Grind169
-525,Contiguous Array,Medium,https://leetcode.com/problems/contiguous-array/,,Grind169
-19,Remove Nth Node From End of List,Medium,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,,Grind169
-22,Generate Parentheses,Medium,https://leetcode.com/problems/generate-parentheses/,,Grind169
-24,Swap Nodes in Pairs,Medium,https://leetcode.com/problems/swap-nodes-in-pairs/,,Grind169
-25,Reverse Nodes in k-Group,Hard,https://leetcode.com/problems/reverse-nodes-in-k-group/,,Grind169
-31,Next Permutation,Medium,https://leetcode.com/problems/next-permutation/,,Grind169
-32,Longest Valid Parentheses,Hard,https://leetcode.com/problems/longest-valid-parentheses/,,Grind169
-36,Valid Sudoku,Medium,https://leetcode.com/problems/valid-sudoku/,,Grind169
-37,Sudoku Solver,Hard,https://leetcode.com/problems/sudoku-solver/,,Grind169
-1730,Shortest Path to Get Food,Medium,https://leetcode.com/problems/shortest-path-to-get-food/,,Grind169
-41,First Missing Positive,Hard,https://leetcode.com/problems/first-missing-positive/,,Grind169
-48,Rotate Image,Medium,https://leetcode.com/problems/rotate-image/,,Grind169
-49,Group Anagrams,Medium,https://leetcode.com/problems/group-anagrams/,,Grind169
-50,"Pow(x, n)",Medium,https://leetcode.com/problems/powx-n/,,Grind169
-51,N-Queens,Hard,https://leetcode.com/problems/n-queens/,,Grind169
-560,Subarray Sum Equals K,Medium,https://leetcode.com/problems/subarray-sum-equals-k/,,Grind169
-55,Jump Game,Medium,https://leetcode.com/problems/jump-game/,,Grind169
-572,Subtree of Another Tree,Easy,https://leetcode.com/problems/subtree-of-another-tree/,,Grind169
-61,Rotate List,Medium,https://leetcode.com/problems/rotate-list/,,Grind169
-73,Set Matrix Zeroes,Medium,https://leetcode.com/problems/set-matrix-zeroes/,,Grind169
-74,Search a 2D Matrix,Medium,https://leetcode.com/problems/search-a-2d-matrix/,,Grind169
-588,Design In-Memory File System,Hard,https://leetcode.com/problems/design-in-memory-file-system/,,Grind169
-91,Decode Ways,Medium,https://leetcode.com/problems/decode-ways/,,Grind169
-100,Same Tree,Easy,https://leetcode.com/problems/same-tree/,,Grind169
-101,Symmetric Tree,Easy,https://leetcode.com/problems/symmetric-tree/,,Grind169
-103,Binary Tree Zigzag Level Order Traversal,Medium,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,,Grind169
-108,Convert Sorted Array to Binary Search Tree,Easy,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,,Grind169
-113,Path Sum II,Medium,https://leetcode.com/problems/path-sum-ii/,,Grind169
-1197,Minimum Knight Moves,Medium,https://leetcode.com/problems/minimum-knight-moves/,,Grind169
-632,Smallest Range Covering Elements from K Lists,Hard,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/,,Grind169
-124,Binary Tree Maximum Path Sum,Hard,https://leetcode.com/problems/binary-tree-maximum-path-sum/,,Grind169
-128,Longest Consecutive Sequence,Medium,https://leetcode.com/problems/longest-consecutive-sequence/,,Grind169
-134,Gas Station,Medium,https://leetcode.com/problems/gas-station/,,Grind169
-136,Single Number,Easy,https://leetcode.com/problems/single-number/,,Grind169
-143,Reorder List,Medium,https://leetcode.com/problems/reorder-list/,,Grind169
-658,Find K Closest Elements,Medium,https://leetcode.com/problems/find-k-closest-elements/,,Grind169
-148,Sort List,Medium,https://leetcode.com/problems/sort-list/,,Grind169
-662,Maximum Width of Binary Tree,Medium,https://leetcode.com/problems/maximum-width-of-binary-tree/,,Grind169
-152,Maximum Product Subarray,Medium,https://leetcode.com/problems/maximum-product-subarray/,,Grind169
-153,Find Minimum in Rotated Sorted Array,Medium,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,,Grind169
-179,Largest Number,Medium,https://leetcode.com/problems/largest-number/,,Grind169
-692,Top K Frequent Words,Medium,https://leetcode.com/problems/top-k-frequent-words/,,Grind169
-189,Rotate Array,Medium,https://leetcode.com/problems/rotate-array/,,Grind169
-190,Reverse Bits,Easy,https://leetcode.com/problems/reverse-bits/,,Grind169
-191,Number of 1 Bits,Easy,https://leetcode.com/problems/number-of-1-bits/,,Grind169
-198,House Robber,Medium,https://leetcode.com/problems/house-robber/,,Grind169
-210,Course Schedule II,Medium,https://leetcode.com/problems/course-schedule-ii/,,Grind169
-211,Design Add and Search Words Data Structure,Medium,https://leetcode.com/problems/design-add-and-search-words-data-structure/,,Grind169
-212,Word Search II,Hard,https://leetcode.com/problems/word-search-ii/,,Grind169
-215,Kth Largest Element in an Array,Medium,https://leetcode.com/problems/kth-largest-element-in-an-array/,,Grind169
-221,Maximal Square,Medium,https://leetcode.com/problems/maximal-square/,,Grind169
-735,Asteroid Collision,Medium,https://leetcode.com/problems/asteroid-collision/,,Grind169
-227,Basic Calculator II,Medium,https://leetcode.com/problems/basic-calculator-ii/,,Grind169
-739,Daily Temperatures,Medium,https://leetcode.com/problems/daily-temperatures/,,Grind169
-234,Palindrome Linked List,Easy,https://leetcode.com/problems/palindrome-linked-list/,,Grind169
-239,Sliding Window Maximum,Hard,https://leetcode.com/problems/sliding-window-maximum/,,Grind169
-759,Employee Free Time,Hard,https://leetcode.com/problems/employee-free-time/,,Grind169
-252,Meeting Rooms,Easy,https://leetcode.com/problems/meeting-rooms/,,Grind169
-253,Meeting Rooms II,Medium,https://leetcode.com/problems/meeting-rooms-ii/,,Grind169
-261,Graph Valid Tree,Medium,https://leetcode.com/problems/graph-valid-tree/,,Grind169
-268,Missing Number,Easy,https://leetcode.com/problems/missing-number/,,Grind169
-269,Alien Dictionary,Hard,https://leetcode.com/problems/alien-dictionary/,,Grind169
-271,Encode and Decode Strings,Medium,https://leetcode.com/problems/encode-and-decode-strings/,,Grind169
-283,Move Zeroes,Easy,https://leetcode.com/problems/move-zeroes/,,Grind169
-285,Inorder Successor in BST,Medium,https://leetcode.com/problems/inorder-successor-in-bst/,,Grind169
-287,Find the Duplicate Number,Medium,https://leetcode.com/problems/find-the-duplicate-number/,,Grind169
-787,Cheapest Flights Within K Stops,Medium,https://leetcode.com/problems/cheapest-flights-within-k-stops/,,Grind169
-300,Longest Increasing Subsequence,Medium,https://leetcode.com/problems/longest-increasing-subsequence/,,Grind169
-815,Bus Routes,Hard,https://leetcode.com/problems/bus-routes/,,Grind169
-323,Number of Connected Components in an Undirected Graph,Medium,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,,Grind169
-328,Odd Even Linked List,Medium,https://leetcode.com/problems/odd-even-linked-list/,,Grind169
-329,Longest Increasing Path in a Matrix,Hard,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,,Grind169
-336,Palindrome Pairs,Hard,https://leetcode.com/problems/palindrome-pairs/,,Grind169
-338,Counting Bits,Easy,https://leetcode.com/problems/counting-bits/,,Grind169
-362,Design Hit Counter,Medium,https://leetcode.com/problems/design-hit-counter/,,Grind169
-844,Backspace String Compare,Easy,https://leetcode.com/problems/backspace-string-compare/,,Grind169
-377,Combination Sum IV,Medium,https://leetcode.com/problems/combination-sum-iv/,,Grind169
-380,Insert Delete GetRandom O(1),Medium,https://leetcode.com/problems/insert-delete-getrandom-o1/,,Grind169
-863,All Nodes Distance K in Binary Tree,Medium,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,,Grind169
-394,Decode String,Medium,https://leetcode.com/problems/decode-string/,,Grind169
-528,Random Pick with Weight,Medium,https://leetcode.com/problems/random-pick-with-weight/,,Grind169
-417,Pacific Atlantic Water Flow,Medium,https://leetcode.com/problems/pacific-atlantic-water-flow/,,Grind169
-895,Maximum Frequency Stack,Hard,https://leetcode.com/problems/maximum-frequency-stack/,,Grind169
-424,Longest Repeating Character Replacement,Medium,https://leetcode.com/problems/longest-repeating-character-replacement/,,Grind169
-435,Non-overlapping Intervals,Medium,https://leetcode.com/problems/non-overlapping-intervals/,,Grind169
-437,Path Sum III,Medium,https://leetcode.com/problems/path-sum-iii/,,Grind169
-977,Squares of a Sorted Array,Easy,https://leetcode.com/problems/squares-of-a-sorted-array/,,Grind169
-518,Coin Change II,Medium,https://leetcode.com/problems/coin-change-ii/,,Neetcode150
-1448,Count Good Nodes in Binary Tree,Medium,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,,Neetcode150
-10,Regular Expression Matching,Hard,https://leetcode.com/problems/regular-expression-matching/,,Neetcode150
-40,Combination Sum II,Medium,https://leetcode.com/problems/combination-sum-ii/,,Neetcode150
-43,Multiply Strings,Medium,https://leetcode.com/problems/multiply-strings/,,Neetcode150
-45,Jump Game II,Medium,https://leetcode.com/problems/jump-game-ii/,,Neetcode150
-567,Permutation in String,Medium,https://leetcode.com/problems/permutation-in-string/,,Neetcode150
-66,Plus One,Easy,https://leetcode.com/problems/plus-one/,,Neetcode150
-72,Edit Distance,Medium,https://leetcode.com/problems/edit-distance/,,Neetcode150
-90,Subsets II,Medium,https://leetcode.com/problems/subsets-ii/,,Neetcode150
-2013,Detect Squares,Medium,https://leetcode.com/problems/detect-squares/,,Neetcode150
-97,Interleaving String,Medium,https://leetcode.com/problems/interleaving-string/,,Neetcode150
-1046,Last Stone Weight,Easy,https://leetcode.com/problems/last-stone-weight/,,Neetcode150
-115,Distinct Subsequences,Hard,https://leetcode.com/problems/distinct-subsequences/,,Neetcode150
-130,Surrounded Regions,Medium,https://leetcode.com/problems/surrounded-regions/,,Neetcode150
-131,Palindrome Partitioning,Medium,https://leetcode.com/problems/palindrome-partitioning/,,Neetcode150
-647,Palindromic Substrings,Medium,https://leetcode.com/problems/palindromic-substrings/,,Neetcode150
-138,Copy List with Random Pointer,Medium,https://leetcode.com/problems/copy-list-with-random-pointer/,,Neetcode150
-678,Valid Parenthesis String,Medium,https://leetcode.com/problems/valid-parenthesis-string/,,Neetcode150
-167,Two Sum II - Input Array Is Sorted,Medium,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,,Neetcode150
-1584,Min Cost to Connect All Points,Medium,https://leetcode.com/problems/min-cost-to-connect-all-points/,,Neetcode150
-684,Redundant Connection,Medium,https://leetcode.com/problems/redundant-connection/,,Neetcode150
-695,Max Area of Island,Medium,https://leetcode.com/problems/max-area-of-island/,,Neetcode150
-202,Happy Number,Easy,https://leetcode.com/problems/happy-number/,,Neetcode150
-213,House Robber II,Medium,https://leetcode.com/problems/house-robber-ii/,,Neetcode150
-1143,Longest Common Subsequence,Medium,https://leetcode.com/problems/longest-common-subsequence/,,Neetcode150
-743,Network Delay Time,Medium,https://leetcode.com/problems/network-delay-time/,,Neetcode150
-746,Min Cost Climbing Stairs,Easy,https://leetcode.com/problems/min-cost-climbing-stairs/,,Neetcode150
-763,Partition Labels,Medium,https://leetcode.com/problems/partition-labels/,,Neetcode150
-703,Kth Largest Element in a Stream,Easy,https://leetcode.com/problems/kth-largest-element-in-a-stream/,,Neetcode150
-778,Swim in Rising Water,Hard,https://leetcode.com/problems/swim-in-rising-water/,,Neetcode150
-286,Walls and Gates,Medium,https://leetcode.com/problems/walls-and-gates/,,Neetcode150
-309,Best Time to Buy and Sell Stock with Cooldown,Medium,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,,Neetcode150
-312,Burst Balloons,Hard,https://leetcode.com/problems/burst-balloons/,,Neetcode150
-332,Reconstruct Itinerary,Hard,https://leetcode.com/problems/reconstruct-itinerary/,,Neetcode150
-347,Top K Frequent Elements,Medium,https://leetcode.com/problems/top-k-frequent-elements/,,Neetcode150
-355,Design Twitter,Medium,https://leetcode.com/problems/design-twitter/,,Neetcode150
-846,Hand of Straights,Medium,https://leetcode.com/problems/hand-of-straights/,,Neetcode150
-371,Sum of Two Integers,Medium,https://leetcode.com/problems/sum-of-two-integers/,,Neetcode150
-853,Car Fleet,Medium,https://leetcode.com/problems/car-fleet/,,Neetcode150
-875,Koko Eating Bananas,Medium,https://leetcode.com/problems/koko-eating-bananas/,,Neetcode150
-1851,Minimum Interval to Include Each Query,Hard,https://leetcode.com/problems/minimum-interval-to-include-each-query/,,Neetcode150
-1899,Merge Triplets to Form Target Triplet,Medium,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,,Neetcode150
-494,Target Sum,Medium,https://leetcode.com/problems/target-sum/,,Neetcode150
+Number,Name,Difficulty,Link,List,Date Completed,Completed
+1,Two Sum,Easy,https://leetcode.com/problems/two-sum/,Grind75,,0
+3,Longest Substring Without Repeating Characters,Medium,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Grind75,,0
+5,Longest Palindromic Substring,Medium,https://leetcode.com/problems/longest-palindromic-substring/,Grind75,,0
+133,Clone Graph,Medium,https://leetcode.com/problems/clone-graph/,Grind75,,0
+383,Ransom Note,Easy,https://leetcode.com/problems/ransom-note/,Grind75,,0
+8,String to Integer (atoi),Medium,https://leetcode.com/problems/string-to-integer-atoi/,Grind75,,0
+11,Container With Most Water,Medium,https://leetcode.com/problems/container-with-most-water/,Grind75,,0
+139,Word Break,Medium,https://leetcode.com/problems/word-break/,Grind75,,0
+141,Linked List Cycle,Easy,https://leetcode.com/problems/linked-list-cycle/,Grind75,,0
+876,Middle of the Linked List,Easy,https://leetcode.com/problems/middle-of-the-linked-list/,Grind75,,0
+15,3Sum,Medium,https://leetcode.com/problems/3sum/,Grind75,,0
+994,Rotting Oranges,Medium,https://leetcode.com/problems/rotting-oranges/,Grind75,,0
+17,Letter Combinations of a Phone Number,Medium,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Grind75,,0
+146,LRU Cache,Medium,https://leetcode.com/problems/lru-cache/,Grind75,,0
+20,Valid Parentheses,Easy,https://leetcode.com/problems/valid-parentheses/,Grind75,,0
+21,Merge Two Sorted Lists,Easy,https://leetcode.com/problems/merge-two-sorted-lists/,Grind75,,0
+150,Evaluate Reverse Polish Notation,Medium,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Grind75,,0
+23,Merge k Sorted Lists,Hard,https://leetcode.com/problems/merge-k-sorted-lists/,Grind75,,0
+278,First Bad Version,Easy,https://leetcode.com/problems/first-bad-version/,Grind75,,0
+409,Longest Palindrome,Easy,https://leetcode.com/problems/longest-palindrome/,Grind75,,0
+704,Binary Search,Easy,https://leetcode.com/problems/binary-search/,Grind75,,0
+155,Min Stack,Medium,https://leetcode.com/problems/min-stack/,Grind75,,0
+981,Time Based Key-Value Store,Medium,https://leetcode.com/problems/time-based-key-value-store/,Grind75,,0
+542,01 Matrix,Medium,https://leetcode.com/problems/01-matrix/,Grind75,,0
+543,Diameter of Binary Tree,Easy,https://leetcode.com/problems/diameter-of-binary-tree/,Grind75,,0
+416,Partition Equal Subset Sum,Medium,https://leetcode.com/problems/partition-equal-subset-sum/,Grind75,,0
+33,Search in Rotated Sorted Array,Medium,https://leetcode.com/problems/search-in-rotated-sorted-array/,Grind75,,0
+39,Combination Sum,Medium,https://leetcode.com/problems/combination-sum/,Grind75,,0
+295,Find Median from Data Stream,Hard,https://leetcode.com/problems/find-median-from-data-stream/,Grind75,,0
+169,Majority Element,Easy,https://leetcode.com/problems/majority-element/,Grind75,,0
+42,Trapping Rain Water,Hard,https://leetcode.com/problems/trapping-rain-water/,Grind75,,0
+297,Serialize and Deserialize Binary Tree,Hard,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Grind75,,0
+46,Permutations,Medium,https://leetcode.com/problems/permutations/,Grind75,,0
+53,Maximum Subarray,Medium,https://leetcode.com/problems/maximum-subarray/,Grind75,,0
+54,Spiral Matrix,Medium,https://leetcode.com/problems/spiral-matrix/,Grind75,,0
+310,Minimum Height Trees,Medium,https://leetcode.com/problems/minimum-height-trees/,Grind75,,0
+56,Merge Intervals,Medium,https://leetcode.com/problems/merge-intervals/,Grind75,,0
+57,Insert Interval,Medium,https://leetcode.com/problems/insert-interval/,Grind75,,0
+438,Find All Anagrams in a String,Medium,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Grind75,,0
+62,Unique Paths,Medium,https://leetcode.com/problems/unique-paths/,Grind75,,0
+322,Coin Change,Medium,https://leetcode.com/problems/coin-change/,Grind75,,0
+67,Add Binary,Easy,https://leetcode.com/problems/add-binary/,Grind75,,0
+70,Climbing Stairs,Easy,https://leetcode.com/problems/climbing-stairs/,Grind75,,0
+199,Binary Tree Right Side View,Medium,https://leetcode.com/problems/binary-tree-right-side-view/,Grind75,,0
+200,Number of Islands,Medium,https://leetcode.com/problems/number-of-islands/,Grind75,,0
+1235,Maximum Profit in Job Scheduling,Hard,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Grind75,,0
+75,Sort Colors,Medium,https://leetcode.com/problems/sort-colors/,Grind75,,0
+76,Minimum Window Substring,Hard,https://leetcode.com/problems/minimum-window-substring/,Grind75,,0
+78,Subsets,Medium,https://leetcode.com/problems/subsets/,Grind75,,0
+79,Word Search,Medium,https://leetcode.com/problems/word-search/,Grind75,,0
+206,Reverse Linked List,Easy,https://leetcode.com/problems/reverse-linked-list/,Grind75,,0
+207,Course Schedule,Medium,https://leetcode.com/problems/course-schedule/,Grind75,,0
+208,Implement Trie (Prefix Tree),Medium,https://leetcode.com/problems/implement-trie-prefix-tree/,Grind75,,0
+721,Accounts Merge,Medium,https://leetcode.com/problems/accounts-merge/,Grind75,,0
+84,Largest Rectangle in Histogram,Hard,https://leetcode.com/problems/largest-rectangle-in-histogram/,Grind75,,0
+217,Contains Duplicate,Easy,https://leetcode.com/problems/contains-duplicate/,Grind75,,0
+733,Flood Fill,Easy,https://leetcode.com/problems/flood-fill/,Grind75,,0
+224,Basic Calculator,Hard,https://leetcode.com/problems/basic-calculator/,Grind75,,0
+98,Validate Binary Search Tree,Medium,https://leetcode.com/problems/validate-binary-search-tree/,Grind75,,0
+226,Invert Binary Tree,Easy,https://leetcode.com/problems/invert-binary-tree/,Grind75,,0
+102,Binary Tree Level Order Traversal,Medium,https://leetcode.com/problems/binary-tree-level-order-traversal/,Grind75,,0
+230,Kth Smallest Element in a BST,Medium,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Grind75,,0
+104,Maximum Depth of Binary Tree,Easy,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Grind75,2024-05-15 08:48:45.598652,1
+105,Construct Binary Tree from Preorder and Inorder Traversal,Medium,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Grind75,,0
+232,Implement Queue using Stacks,Easy,https://leetcode.com/problems/implement-queue-using-stacks/,Grind75,,0
+235,Lowest Common Ancestor of a Binary Search Tree,Medium,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Grind75,2024-05-15 08:51:00.526153,1
+236,Lowest Common Ancestor of a Binary Tree,Medium,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Grind75,,0
+621,Task Scheduler,Medium,https://leetcode.com/problems/task-scheduler/,Grind75,,0
+110,Balanced Binary Tree,Easy,https://leetcode.com/problems/balanced-binary-tree/,Grind75,,0
+238,Product of Array Except Self,Medium,https://leetcode.com/problems/product-of-array-except-self/,Grind75,,0
+242,Valid Anagram,Easy,https://leetcode.com/problems/valid-anagram/,Grind75,,0
+973,K Closest Points to Origin,Medium,https://leetcode.com/problems/k-closest-points-to-origin/,Grind75,,0
+121,Best Time to Buy and Sell Stock,Easy,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Grind75,,0
+125,Valid Palindrome,Easy,https://leetcode.com/problems/valid-palindrome/,Grind75,,0
+127,Word Ladder,Hard,https://leetcode.com/problems/word-ladder/,Grind75,,0
+2,Add Two Numbers,Medium,https://leetcode.com/problems/add-two-numbers/,Grind169,,0
+4,Median of Two Sorted Arrays,Hard,https://leetcode.com/problems/median-of-two-sorted-arrays/,Grind169,,0
+7,Reverse Integer,Medium,https://leetcode.com/problems/reverse-integer/,Grind169,,0
+9,Palindrome Number,Easy,https://leetcode.com/problems/palindrome-number/,Grind169,,0
+13,Roman to Integer,Easy,https://leetcode.com/problems/roman-to-integer/,Grind169,,0
+14,Longest Common Prefix,Easy,https://leetcode.com/problems/longest-common-prefix/,Grind169,,0
+16,3Sum Closest,Medium,https://leetcode.com/problems/3sum-closest/,Grind169,,0
+525,Contiguous Array,Medium,https://leetcode.com/problems/contiguous-array/,Grind169,,0
+19,Remove Nth Node From End of List,Medium,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Grind169,,0
+22,Generate Parentheses,Medium,https://leetcode.com/problems/generate-parentheses/,Grind169,,0
+24,Swap Nodes in Pairs,Medium,https://leetcode.com/problems/swap-nodes-in-pairs/,Grind169,,0
+25,Reverse Nodes in k-Group,Hard,https://leetcode.com/problems/reverse-nodes-in-k-group/,Grind169,,0
+31,Next Permutation,Medium,https://leetcode.com/problems/next-permutation/,Grind169,,0
+32,Longest Valid Parentheses,Hard,https://leetcode.com/problems/longest-valid-parentheses/,Grind169,,0
+36,Valid Sudoku,Medium,https://leetcode.com/problems/valid-sudoku/,Grind169,,0
+37,Sudoku Solver,Hard,https://leetcode.com/problems/sudoku-solver/,Grind169,,0
+1730,Shortest Path to Get Food,Medium,https://leetcode.com/problems/shortest-path-to-get-food/,Grind169,,0
+41,First Missing Positive,Hard,https://leetcode.com/problems/first-missing-positive/,Grind169,,0
+48,Rotate Image,Medium,https://leetcode.com/problems/rotate-image/,Grind169,,0
+49,Group Anagrams,Medium,https://leetcode.com/problems/group-anagrams/,Grind169,,0
+50,"Pow(x, n)",Medium,https://leetcode.com/problems/powx-n/,Grind169,,0
+51,N-Queens,Hard,https://leetcode.com/problems/n-queens/,Grind169,,0
+560,Subarray Sum Equals K,Medium,https://leetcode.com/problems/subarray-sum-equals-k/,Grind169,,0
+55,Jump Game,Medium,https://leetcode.com/problems/jump-game/,Grind169,,0
+572,Subtree of Another Tree,Easy,https://leetcode.com/problems/subtree-of-another-tree/,Grind169,,0
+61,Rotate List,Medium,https://leetcode.com/problems/rotate-list/,Grind169,,0
+73,Set Matrix Zeroes,Medium,https://leetcode.com/problems/set-matrix-zeroes/,Grind169,,0
+74,Search a 2D Matrix,Medium,https://leetcode.com/problems/search-a-2d-matrix/,Grind169,,0
+588,Design In-Memory File System,Hard,https://leetcode.com/problems/design-in-memory-file-system/,Grind169,,0
+91,Decode Ways,Medium,https://leetcode.com/problems/decode-ways/,Grind169,,0
+100,Same Tree,Easy,https://leetcode.com/problems/same-tree/,Grind169,,0
+101,Symmetric Tree,Easy,https://leetcode.com/problems/symmetric-tree/,Grind169,,0
+103,Binary Tree Zigzag Level Order Traversal,Medium,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Grind169,,0
+108,Convert Sorted Array to Binary Search Tree,Easy,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,Grind169,,0
+113,Path Sum II,Medium,https://leetcode.com/problems/path-sum-ii/,Grind169,,0
+1197,Minimum Knight Moves,Medium,https://leetcode.com/problems/minimum-knight-moves/,Grind169,,0
+632,Smallest Range Covering Elements from K Lists,Hard,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/,Grind169,,0
+124,Binary Tree Maximum Path Sum,Hard,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Grind169,,0
+128,Longest Consecutive Sequence,Medium,https://leetcode.com/problems/longest-consecutive-sequence/,Grind169,,0
+134,Gas Station,Medium,https://leetcode.com/problems/gas-station/,Grind169,,0
+136,Single Number,Easy,https://leetcode.com/problems/single-number/,Grind169,,0
+143,Reorder List,Medium,https://leetcode.com/problems/reorder-list/,Grind169,,0
+658,Find K Closest Elements,Medium,https://leetcode.com/problems/find-k-closest-elements/,Grind169,,0
+148,Sort List,Medium,https://leetcode.com/problems/sort-list/,Grind169,,0
+662,Maximum Width of Binary Tree,Medium,https://leetcode.com/problems/maximum-width-of-binary-tree/,Grind169,,0
+152,Maximum Product Subarray,Medium,https://leetcode.com/problems/maximum-product-subarray/,Grind169,,0
+153,Find Minimum in Rotated Sorted Array,Medium,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Grind169,,0
+179,Largest Number,Medium,https://leetcode.com/problems/largest-number/,Grind169,,0
+692,Top K Frequent Words,Medium,https://leetcode.com/problems/top-k-frequent-words/,Grind169,,0
+189,Rotate Array,Medium,https://leetcode.com/problems/rotate-array/,Grind169,,0
+190,Reverse Bits,Easy,https://leetcode.com/problems/reverse-bits/,Grind169,,0
+191,Number of 1 Bits,Easy,https://leetcode.com/problems/number-of-1-bits/,Grind169,,0
+198,House Robber,Medium,https://leetcode.com/problems/house-robber/,Grind169,,0
+210,Course Schedule II,Medium,https://leetcode.com/problems/course-schedule-ii/,Grind169,,0
+211,Design Add and Search Words Data Structure,Medium,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Grind169,,0
+212,Word Search II,Hard,https://leetcode.com/problems/word-search-ii/,Grind169,,0
+215,Kth Largest Element in an Array,Medium,https://leetcode.com/problems/kth-largest-element-in-an-array/,Grind169,,0
+221,Maximal Square,Medium,https://leetcode.com/problems/maximal-square/,Grind169,,0
+735,Asteroid Collision,Medium,https://leetcode.com/problems/asteroid-collision/,Grind169,,0
+227,Basic Calculator II,Medium,https://leetcode.com/problems/basic-calculator-ii/,Grind169,,0
+739,Daily Temperatures,Medium,https://leetcode.com/problems/daily-temperatures/,Grind169,,0
+234,Palindrome Linked List,Easy,https://leetcode.com/problems/palindrome-linked-list/,Grind169,,0
+239,Sliding Window Maximum,Hard,https://leetcode.com/problems/sliding-window-maximum/,Grind169,,0
+759,Employee Free Time,Hard,https://leetcode.com/problems/employee-free-time/,Grind169,,0
+252,Meeting Rooms,Easy,https://leetcode.com/problems/meeting-rooms/,Grind169,,0
+253,Meeting Rooms II,Medium,https://leetcode.com/problems/meeting-rooms-ii/,Grind169,,0
+261,Graph Valid Tree,Medium,https://leetcode.com/problems/graph-valid-tree/,Grind169,,0
+268,Missing Number,Easy,https://leetcode.com/problems/missing-number/,Grind169,,0
+269,Alien Dictionary,Hard,https://leetcode.com/problems/alien-dictionary/,Grind169,,0
+271,Encode and Decode Strings,Medium,https://leetcode.com/problems/encode-and-decode-strings/,Grind169,,0
+283,Move Zeroes,Easy,https://leetcode.com/problems/move-zeroes/,Grind169,,0
+285,Inorder Successor in BST,Medium,https://leetcode.com/problems/inorder-successor-in-bst/,Grind169,,0
+287,Find the Duplicate Number,Medium,https://leetcode.com/problems/find-the-duplicate-number/,Grind169,,0
+787,Cheapest Flights Within K Stops,Medium,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Grind169,,0
+300,Longest Increasing Subsequence,Medium,https://leetcode.com/problems/longest-increasing-subsequence/,Grind169,,0
+815,Bus Routes,Hard,https://leetcode.com/problems/bus-routes/,Grind169,,0
+323,Number of Connected Components in an Undirected Graph,Medium,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Grind169,,0
+328,Odd Even Linked List,Medium,https://leetcode.com/problems/odd-even-linked-list/,Grind169,,0
+329,Longest Increasing Path in a Matrix,Hard,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Grind169,,0
+336,Palindrome Pairs,Hard,https://leetcode.com/problems/palindrome-pairs/,Grind169,,0
+338,Counting Bits,Easy,https://leetcode.com/problems/counting-bits/,Grind169,,0
+362,Design Hit Counter,Medium,https://leetcode.com/problems/design-hit-counter/,Grind169,,0
+844,Backspace String Compare,Easy,https://leetcode.com/problems/backspace-string-compare/,Grind169,,0
+377,Combination Sum IV,Medium,https://leetcode.com/problems/combination-sum-iv/,Grind169,,0
+380,Insert Delete GetRandom O(1),Medium,https://leetcode.com/problems/insert-delete-getrandom-o1/,Grind169,,0
+863,All Nodes Distance K in Binary Tree,Medium,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Grind169,,0
+394,Decode String,Medium,https://leetcode.com/problems/decode-string/,Grind169,,0
+528,Random Pick with Weight,Medium,https://leetcode.com/problems/random-pick-with-weight/,Grind169,,0
+417,Pacific Atlantic Water Flow,Medium,https://leetcode.com/problems/pacific-atlantic-water-flow/,Grind169,,0
+895,Maximum Frequency Stack,Hard,https://leetcode.com/problems/maximum-frequency-stack/,Grind169,,0
+424,Longest Repeating Character Replacement,Medium,https://leetcode.com/problems/longest-repeating-character-replacement/,Grind169,,0
+435,Non-overlapping Intervals,Medium,https://leetcode.com/problems/non-overlapping-intervals/,Grind169,,0
+437,Path Sum III,Medium,https://leetcode.com/problems/path-sum-iii/,Grind169,,0
+977,Squares of a Sorted Array,Easy,https://leetcode.com/problems/squares-of-a-sorted-array/,Grind169,,0
+518,Coin Change II,Medium,https://leetcode.com/problems/coin-change-ii/,Neetcode150,,0
+1448,Count Good Nodes in Binary Tree,Medium,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,Neetcode150,,0
+10,Regular Expression Matching,Hard,https://leetcode.com/problems/regular-expression-matching/,Neetcode150,,0
+40,Combination Sum II,Medium,https://leetcode.com/problems/combination-sum-ii/,Neetcode150,,0
+43,Multiply Strings,Medium,https://leetcode.com/problems/multiply-strings/,Neetcode150,,0
+45,Jump Game II,Medium,https://leetcode.com/problems/jump-game-ii/,Neetcode150,,0
+567,Permutation in String,Medium,https://leetcode.com/problems/permutation-in-string/,Neetcode150,,0
+66,Plus One,Easy,https://leetcode.com/problems/plus-one/,Neetcode150,,0
+72,Edit Distance,Medium,https://leetcode.com/problems/edit-distance/,Neetcode150,,0
+90,Subsets II,Medium,https://leetcode.com/problems/subsets-ii/,Neetcode150,,0
+2013,Detect Squares,Medium,https://leetcode.com/problems/detect-squares/,Neetcode150,,0
+97,Interleaving String,Medium,https://leetcode.com/problems/interleaving-string/,Neetcode150,,0
+1046,Last Stone Weight,Easy,https://leetcode.com/problems/last-stone-weight/,Neetcode150,,0
+115,Distinct Subsequences,Hard,https://leetcode.com/problems/distinct-subsequences/,Neetcode150,,0
+130,Surrounded Regions,Medium,https://leetcode.com/problems/surrounded-regions/,Neetcode150,,0
+131,Palindrome Partitioning,Medium,https://leetcode.com/problems/palindrome-partitioning/,Neetcode150,,0
+647,Palindromic Substrings,Medium,https://leetcode.com/problems/palindromic-substrings/,Neetcode150,,0
+138,Copy List with Random Pointer,Medium,https://leetcode.com/problems/copy-list-with-random-pointer/,Neetcode150,,0
+678,Valid Parenthesis String,Medium,https://leetcode.com/problems/valid-parenthesis-string/,Neetcode150,,0
+167,Two Sum II - Input Array Is Sorted,Medium,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Neetcode150,,0
+1584,Min Cost to Connect All Points,Medium,https://leetcode.com/problems/min-cost-to-connect-all-points/,Neetcode150,,0
+684,Redundant Connection,Medium,https://leetcode.com/problems/redundant-connection/,Neetcode150,,0
+695,Max Area of Island,Medium,https://leetcode.com/problems/max-area-of-island/,Neetcode150,,0
+202,Happy Number,Easy,https://leetcode.com/problems/happy-number/,Neetcode150,,0
+213,House Robber II,Medium,https://leetcode.com/problems/house-robber-ii/,Neetcode150,,0
+1143,Longest Common Subsequence,Medium,https://leetcode.com/problems/longest-common-subsequence/,Neetcode150,,0
+743,Network Delay Time,Medium,https://leetcode.com/problems/network-delay-time/,Neetcode150,,0
+746,Min Cost Climbing Stairs,Easy,https://leetcode.com/problems/min-cost-climbing-stairs/,Neetcode150,,0
+763,Partition Labels,Medium,https://leetcode.com/problems/partition-labels/,Neetcode150,,0
+703,Kth Largest Element in a Stream,Easy,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Neetcode150,,0
+778,Swim in Rising Water,Hard,https://leetcode.com/problems/swim-in-rising-water/,Neetcode150,,0
+286,Walls and Gates,Medium,https://leetcode.com/problems/walls-and-gates/,Neetcode150,,0
+309,Best Time to Buy and Sell Stock with Cooldown,Medium,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Neetcode150,,0
+312,Burst Balloons,Hard,https://leetcode.com/problems/burst-balloons/,Neetcode150,,0
+332,Reconstruct Itinerary,Hard,https://leetcode.com/problems/reconstruct-itinerary/,Neetcode150,,0
+347,Top K Frequent Elements,Medium,https://leetcode.com/problems/top-k-frequent-elements/,Neetcode150,,0
+355,Design Twitter,Medium,https://leetcode.com/problems/design-twitter/,Neetcode150,,0
+846,Hand of Straights,Medium,https://leetcode.com/problems/hand-of-straights/,Neetcode150,,0
+371,Sum of Two Integers,Medium,https://leetcode.com/problems/sum-of-two-integers/,Neetcode150,,0
+853,Car Fleet,Medium,https://leetcode.com/problems/car-fleet/,Neetcode150,,0
+875,Koko Eating Bananas,Medium,https://leetcode.com/problems/koko-eating-bananas/,Neetcode150,,0
+1851,Minimum Interval to Include Each Query,Hard,https://leetcode.com/problems/minimum-interval-to-include-each-query/,Neetcode150,,0
+1899,Merge Triplets to Form Target Triplet,Medium,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,Neetcode150,,0
+494,Target Sum,Medium,https://leetcode.com/problems/target-sum/,Neetcode150,,0

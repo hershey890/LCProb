@@ -1,58 +1,59 @@
+"""Randomly selects a problem from either Grind75, Grind169, or Neetcode150
+"""
 from pathlib import Path
-import pandas as pd
+from argparse import ArgumentParser
 import webbrowser
+import pandas as pd
 
 
-problems_file = Path(__file__).parent / Path("data/problems_unique.csv")
+OPEN_BROWSER = False
 
 
-def _select_problem() -> str:
-    """Randomly selects an uncompleted problem
+class Problem:
+    def __init__(
+        self,
+        success: bool = False,
+        prob_list: str = "",
+        num: int = -1,
+        name: str = "",
+        diff: str = "",
+        link: str = "",
+    ) -> None:
+        self.success = success
+        self.prob_list = prob_list
+        self.num = num
+        self.name = name
+        self.diff = diff
+        self.link = link
 
-    If all problems are completed, resets the dates to None and
-    selects a new problem.
-
-    Returns
-    -------
-    str
-        str(selected problem number)
-    """
-
-    def _get_prob(problem_df: pd.DataFrame) -> tuple[str, int]:
-        global problems_file
-        prob_lists = ["Grind75", "Grind169", "Neetcode150"]
-
-        for lst in prob_lists:
-            # df = pd.read_excel(problems_file, sheet_name=sheet)
-            df = problem_df[problem_df["List"] == lst]
-            inds = df["Date Completed"].isna()
-            if sum(~inds) == len(df):
-                continue
-
-            prob = df[inds].sample(1)
-            num = prob["Number"].values[0]
-            name = prob["Name"].values[0]
-            link = prob["Link"].values[0]
-            diff = prob["Difficulty"].values[0]
-
-            print(f"\nProblem: {num}. {name} ({diff})\nLink: {link}\n")
-            webbrowser.open(link)
-            return lst, num
-        return None, None
-
-    problem_df = pd.read_csv(problems_file)
-    prob_list, prob_num = _get_prob(problem_df)
-
-    if not prob_list:
-        print("All problems completed! Resetting dates to None")
-        problem_df["Date Completed"] = ""
-        problem_df.to_csv(problems_file, index=False)
-        prob_list, prob_num = _get_prob(problem_df)
-
-    return str(prob_num)
+    def __str__(self) -> str:
+        return f"Problem: {self.num}. {self.name} ({self.diff})\nLink: {self.link}\n"
 
 
-def _handle_response(prob_num: int, response: str) -> bool:
+def _get_prob(problems_df: pd.DataFrame) -> Problem:
+    """Randomly selects an uncompleted problem"""
+    prob_lists = ["Grind75", "Grind169", "Neetcode150"]
+
+    for lst in prob_lists:
+        df = problems_df[problems_df["List"] == lst]
+        inds = df["Completed"] == 0
+        if sum(~inds) == len(df):
+            continue
+
+        raw_prob = df[inds].sample(1)
+        return Problem(
+            True,
+            lst,
+            raw_prob["Number"].values[0],
+            raw_prob["Name"].values[0],
+            raw_prob["Difficulty"].values[0],
+            raw_prob["Link"].values[0],
+        )
+
+    return Problem(False)
+
+
+def _handle_response(df: pd.DataFrame, prob_num: int, response: str) -> bool:
     """Used for setting problem completion status
 
     Returns
@@ -60,25 +61,22 @@ def _handle_response(prob_num: int, response: str) -> bool:
     bool
         True if the response is valid, False otherwise
     """
-    df = pd.read_csv(problems_file, dtype={"Date Completed": "str"})
-
     if response.lower() == "y":
         df.loc[df["Number"] == prob_num, "Date Completed"] = pd.Timestamp.now()
-        df.to_csv(problems_file, index=False)
+        df.loc[df["Number"] == prob_num, "Completed"] = 1
         return True
     elif response.lower() == "n":
         return True
     elif response.lower() == "r":
-        # reset all dates to None
-        df["Date Completed"] = ""
-        df.to_csv(problems_file, index=False)
+        df.loc[:, "Date Completed"] = ""
+        df.loc[:, "Completed"] = 0
         return True
     elif response.isdigit():
         if int(response) not in df["Number"].values:
             print("Problem not found.")
             return False
         df.loc[df["Number"] == int(response), "Date Completed"] = ""
-        df.to_csv(problems_file, index=False)
+        df.loc[df["Number"] == int(response), "Completed"] = 0
         return True
     else:
         print("Invalid response. Please type 'y', 'n', 'r', or a problem number.")
@@ -86,8 +84,24 @@ def _handle_response(prob_num: int, response: str) -> bool:
 
 
 def main() -> None:
-    prob_num = _select_problem()
+    problems_file = Path(__file__).parent / Path("data/problems_unique.csv")
+    df = pd.read_csv(problems_file, dtype={"Number": "int", "Date Completed": "str", "Completed": "int"})
 
+    # Select a Problem
+    prob = _get_prob(df)
+    if not prob.success:  # if all problems are completed
+        print("All problems completed! Resetting dates to None")
+        df["Date Completed"] = ""
+        df.to_csv(problems_file, index=False)
+        prob = _get_prob(df)
+        if not prob.success:
+            raise RuntimeError("No problems found")
+
+    print(prob)
+    if OPEN_BROWSER:
+        webbrowser.open(prob.link)
+
+    # Handle User Input
     print("\tTo mark a problem as completed, type 'y' and press Enter")
     print("\tTo exit, type 'n' and press Enter")
     print("\tTo reset progress, type 'r' and press Enter")
@@ -96,10 +110,15 @@ def main() -> None:
     )
 
     while True:
-        response = input("Input? (y/n/r/problem#): ")
-        if _handle_response(prob_num, response):
+        response = input("Input (y/n/r/problem#): ")
+        if _handle_response(df, prob.num, response):
+            df.to_csv(problems_file, index=False)
             break
 
 
 if __name__ == "__main__":
+    parser = ArgumentParser(description="""Randomly select a problem to work on""")
+    parser.add_argument('-r', '--repetition', action='store_true', default=False, help='Select problems using spaced repitition')
+    args = parser.parse_args()
+
     main()
