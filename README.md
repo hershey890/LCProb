@@ -52,6 +52,7 @@ Link: https://leetcode.com/problems/diameter-of-binary-tree/
     To set undo completion of a problem, type '{problem number}' and press Enter
     Input? (y/n/r/problem#): 
 ```
+![Usage GIF](img/usage.gif)
 
 ## Stats
 - 213 problems total
