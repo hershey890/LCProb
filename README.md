@@ -9,20 +9,21 @@ Leetcode lists aren't great for tracking repition of problems so this project ai
 4. Once all are completed, goes back to 1.
 
 ## Installation
-**Requirements**
+**Requirements**  
 - Python 3
 - Pandas
 - (I personally used Python 3.12.3 and Pandas 2.2.1)
 
-**Installation**
+**Installation**  
 Use one of the following depending on if you use conda or pip
-```
+```bash
 $ conda install pandas
-$ pip install pandas # You should really use a virtual environment. Messing with your 
+# OR (you really should use a virtual environment as well)
+$ pip install pandas
 ```
 
 If there are some issues (due to dependency issues/package version mismatch), use the following to create a virtual environment.
-```
+```bash
 # If using conda:
 $ conda env create -f environment.yml
 # creates a virtual environment (venv) called "table"
@@ -38,11 +39,12 @@ $ pip install requirements.txt
 \* Note you don't have to use a virtual environment and can directly just use `pip install requirements.txt` but I really recommend that you do not unless you use a seperate Python install from your system's default installation.
 
 ## Usage
-```
+Running LCProb opens a the problem in your default web browser and give you the option of tracking your progress.
+```bash
 $ python lcprob.py 
 
 Problem: 543. Diameter of Binary Tree (Easy)
-Link: https://leetcode.com/problems/diameter-of-binary-tree?envType=problem-list-v2&envId=rab78cw1
+Link: https://leetcode.com/problems/diameter-of-binary-tree/
 
     To mark a problem as completed, type 'y' and press Enter
     To exit, type 'n' and press Enter
@@ -57,5 +59,5 @@ Link: https://leetcode.com/problems/diameter-of-binary-tree?envType=problem-list
 - Neetcode 150 has 44 problems not in Grind169
 
 ## Todo
-- remove URL query (stuff after "?")
 - unittests
+- Add as Python package to PyPI
