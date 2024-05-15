@@ -60,5 +60,5 @@ Link: https://leetcode.com/problems/diameter-of-binary-tree/
 - Neetcode 150 has 44 problems not in Grind169
 
 ## Todo
-- unittests
-- Add as Python package to PyPI
+- Add spaced repitition. I started on it but it's not complete yet.
+- Make pip installable

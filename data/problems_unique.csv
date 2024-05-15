@@ -17,7 +17,7 @@ Number,Name,Difficulty,Link,List,Date Completed,Completed
 21,Merge Two Sorted Lists,Easy,https://leetcode.com/problems/merge-two-sorted-lists/,Grind75,,0
 150,Evaluate Reverse Polish Notation,Medium,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Grind75,,0
 23,Merge k Sorted Lists,Hard,https://leetcode.com/problems/merge-k-sorted-lists/,Grind75,,0
-278,First Bad Version,Easy,https://leetcode.com/problems/first-bad-version/,Grind75,,0
+278,First Bad Version,Easy,https://leetcode.com/problems/first-bad-version/,Grind75,2024-05-15 11:44:48.681711,1
 409,Longest Palindrome,Easy,https://leetcode.com/problems/longest-palindrome/,Grind75,,0
 704,Binary Search,Easy,https://leetcode.com/problems/binary-search/,Grind75,,0
 155,Min Stack,Medium,https://leetcode.com/problems/min-stack/,Grind75,,0
@@ -25,11 +25,11 @@ Number,Name,Difficulty,Link,List,Date Completed,Completed
 542,01 Matrix,Medium,https://leetcode.com/problems/01-matrix/,Grind75,,0
 543,Diameter of Binary Tree,Easy,https://leetcode.com/problems/diameter-of-binary-tree/,Grind75,,0
 416,Partition Equal Subset Sum,Medium,https://leetcode.com/problems/partition-equal-subset-sum/,Grind75,,0
-33,Search in Rotated Sorted Array,Medium,https://leetcode.com/problems/search-in-rotated-sorted-array/,Grind75,,0
-39,Combination Sum,Medium,https://leetcode.com/problems/combination-sum/,Grind75,,0
-295,Find Median from Data Stream,Hard,https://leetcode.com/problems/find-median-from-data-stream/,Grind75,,0
+33,Search in Rotated Sorted Array,Medium,https://leetcode.com/problems/search-in-rotated-sorted-array/,Grind75,2024-05-15 11:54:32.650108,1
+39,Combination Sum,Medium,https://leetcode.com/problems/combination-sum/,Grind75,2024-05-15 12:31:00.189466,1
+295,Find Median from Data Stream,Hard,https://leetcode.com/problems/find-median-from-data-stream/,Grind75,2024-05-15 11:44:46.427687,1
 169,Majority Element,Easy,https://leetcode.com/problems/majority-element/,Grind75,,0
-42,Trapping Rain Water,Hard,https://leetcode.com/problems/trapping-rain-water/,Grind75,,0
+42,Trapping Rain Water,Hard,https://leetcode.com/problems/trapping-rain-water/,Grind75,2024-05-15 11:46:51.549532,1
 297,Serialize and Deserialize Binary Tree,Hard,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Grind75,,0
 46,Permutations,Medium,https://leetcode.com/problems/permutations/,Grind75,,0
 53,Maximum Subarray,Medium,https://leetcode.com/problems/maximum-subarray/,Grind75,,0
@@ -54,17 +54,17 @@ Number,Name,Difficulty,Link,List,Date Completed,Completed
 208,Implement Trie (Prefix Tree),Medium,https://leetcode.com/problems/implement-trie-prefix-tree/,Grind75,,0
 721,Accounts Merge,Medium,https://leetcode.com/problems/accounts-merge/,Grind75,,0
 84,Largest Rectangle in Histogram,Hard,https://leetcode.com/problems/largest-rectangle-in-histogram/,Grind75,,0
-217,Contains Duplicate,Easy,https://leetcode.com/problems/contains-duplicate/,Grind75,,0
+217,Contains Duplicate,Easy,https://leetcode.com/problems/contains-duplicate/,Grind75,2024-05-15 13:33:01.637865,1
 733,Flood Fill,Easy,https://leetcode.com/problems/flood-fill/,Grind75,,0
 224,Basic Calculator,Hard,https://leetcode.com/problems/basic-calculator/,Grind75,,0
 98,Validate Binary Search Tree,Medium,https://leetcode.com/problems/validate-binary-search-tree/,Grind75,,0
 226,Invert Binary Tree,Easy,https://leetcode.com/problems/invert-binary-tree/,Grind75,,0
 102,Binary Tree Level Order Traversal,Medium,https://leetcode.com/problems/binary-tree-level-order-traversal/,Grind75,,0
 230,Kth Smallest Element in a BST,Medium,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Grind75,,0
-104,Maximum Depth of Binary Tree,Easy,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Grind75,2024-05-15 08:48:45.598652,1
+104,Maximum Depth of Binary Tree,Easy,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Grind75,2024-05-15 11:46:49.621966,1
 105,Construct Binary Tree from Preorder and Inorder Traversal,Medium,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Grind75,,0
 232,Implement Queue using Stacks,Easy,https://leetcode.com/problems/implement-queue-using-stacks/,Grind75,,0
-235,Lowest Common Ancestor of a Binary Search Tree,Medium,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Grind75,2024-05-15 08:51:00.526153,1
+235,Lowest Common Ancestor of a Binary Search Tree,Medium,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Grind75,,0
 236,Lowest Common Ancestor of a Binary Tree,Medium,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Grind75,,0
 621,Task Scheduler,Medium,https://leetcode.com/problems/task-scheduler/,Grind75,,0
 110,Balanced Binary Tree,Easy,https://leetcode.com/problems/balanced-binary-tree/,Grind75,,0
@@ -181,7 +181,7 @@ Number,Name,Difficulty,Link,List,Date Completed,Completed
 2013,Detect Squares,Medium,https://leetcode.com/problems/detect-squares/,Neetcode150,,0
 97,Interleaving String,Medium,https://leetcode.com/problems/interleaving-string/,Neetcode150,,0
 1046,Last Stone Weight,Easy,https://leetcode.com/problems/last-stone-weight/,Neetcode150,,0
-115,Distinct Subsequences,Hard,https://leetcode.com/problems/distinct-subsequences/,Neetcode150,,0
+115,Distinct Subsequences,Hard,https://leetcode.com/problems/distinct-subsequences/,Neetcode150,2024-05-15 11:42:28.899160,1
 130,Surrounded Regions,Medium,https://leetcode.com/problems/surrounded-regions/,Neetcode150,,0
 131,Palindrome Partitioning,Medium,https://leetcode.com/problems/palindrome-partitioning/,Neetcode150,,0
 647,Palindromic Substrings,Medium,https://leetcode.com/problems/palindromic-substrings/,Neetcode150,,0
